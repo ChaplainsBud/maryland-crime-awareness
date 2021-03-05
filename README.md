@@ -25,14 +25,14 @@ d. Scrape Contemporary Data:
 A. Nextdoor
 B. Newspapers
 
-1. https://www.baltimorepolice.org/crime-stats/open-data
+1. https://www.baltimorepolice.org/crime-stats/open-data // hard to use
 
-2. https://crime-data-explorer.fr.cloud.gov/explorer/state/maryland/crime
+2. https://crime-data-explorer.fr.cloud.gov/explorer/state/maryland/crime // .csv file, no API
 
-3. https://dev.socrata.com/foundry/opendata.maryland.gov/jwfa-fdxs
+3. https://dev.socrata.com/foundry/opendata.maryland.gov/jwfa-fdxs // SoQL language, like SQL
    https://dev.socrata.com/foundry/opendata.maryland.gov/2p5g-xrcb
 
-4. https://catalog.data.gov/dataset/crime
+4. https://catalog.data.gov/dataset/crime // resource description framework language, RDF
 
 5. https://data.baltimorecity.gov/
 
@@ -43,3 +43,7 @@ B. Newspapers
 8. https://datacommons.org/place/geoId/24?topic=Crime
 
 9. https://www.crimeometer.com/crime-data-api
+
+10. https://homicides.news.baltimoresun.com/?range=30&show_results=SEARCH%20MAP
+
+11. https://www.icrimewatch.net/index.php?AgencyID=56622
